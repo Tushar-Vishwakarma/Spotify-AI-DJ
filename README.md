@@ -1,6 +1,6 @@
 # Spotify AI DJ Recommendation Engine
 
-![Uploading image.png…]()
+<img width="1727" alt="image" src="https://github.com/user-attachments/assets/356b7e5c-b7b0-4800-8f51-22622d31193a" />
 
 
 ## Table of Contents
