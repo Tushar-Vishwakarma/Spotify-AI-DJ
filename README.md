@@ -1,5 +1,3 @@
-# Spotify-AI-DJ
-
 # Spotify AI DJ Recommendation Engine
 
 ## Table of Contents
