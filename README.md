@@ -1,5 +1,8 @@
 # Spotify AI DJ Recommendation Engine
 
+![Uploading image.png…]()
+
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
